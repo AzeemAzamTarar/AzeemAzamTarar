@@ -21,10 +21,7 @@ I'm a passionate **Data Analyst** and **Data Enthusiast** with a deep love for d
 - Work with big data technologies to handle large-scale datasets
 
 ## 🏆 Certifications
-- **Google Data Analytics Professional Certificate** - Google
-- **Microsoft Certified: Data Analyst Associate** - Microsoft
-- **IBM Data Science Professional Certificate** - IBM
-- **Tableau Desktop Specialist** - Tableau
+
 
 
 ## 📧 Connect With Me
