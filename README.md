@@ -7,7 +7,7 @@ I'm a passionate **Data Analyst** and **Data Enthusiast** with a deep love for d
 ## 🛠 Technologies & Tools
 - **Programming & Query Languages:** Python (Pandas, NumPy), SQL
 - **Data Visualization:** Power BI, Tableau, Superset, Matplotlib, Seaborn
-- **Databases:** MySQL, PostgreSQL, Microsoft SQL Server
+- **Databases:** MySQL, PostgreSQL, Microsoft SQL Server, Trino
 - **Other Tools:** Excel (Advanced), Google Sheets, Jupyter Notebook
 
 ## 📊 What I Do
