@@ -17,10 +17,12 @@ I'm a passionate **Data Analyst** and **Data Enthusiast** with a deep love for d
 - Optimize SQL queries for better performance
 - Automate data tasks for efficiency
 - Perform statistical analysis and predictive modeling
-- Develop machine learning models for data-driven decision-making
-- Work with big data technologies to handle large-scale datasets
 
 ## 🏆 Certifications
+- [SQL (Basic) Certificate](https://www.hackerrank.com/certificates/42960cc6370b)
+- [SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/0f1d206ad70d)
+- [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/4eeb34372a7a)
+- [Python (Basic) Certificate](https://www.hackerrank.com/certificates/b70b899c92d6)
 
 
 
